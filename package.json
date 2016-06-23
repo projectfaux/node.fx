@@ -1,0 +1,29 @@
+{
+  "name": "node.fx",
+  "version": "0.0.0-checkpoint",
+  "description": "SDK for Faux that works on Node.js 6+",
+  "keywords": [
+    "node.fx",
+    "sdk",
+    "faux",
+    "nodejs",
+    "static",
+    "typed",
+    "macro",
+    "dynamic",
+    "language",
+    "transpiler",
+    "ecmascript"
+  ],
+  "homepage": "http://projectfaux.github.io/node.fx",
+  "repository": "projectfaux/node.fx",
+  "bugs": "https://github.com/projectfaux/node.fx/issues",
+  "license": "MIT",
+  "author": "Futago-za Ryuu <futagoza.ryuu@gmail.com>",
+
+  "main": "lib/faux.js",
+  "bin": "bin/faux",
+  "engines": {
+    "node": ">= 6.0.0"
+  }
+}
